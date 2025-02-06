@@ -21,8 +21,8 @@
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/stock-worth-calculator.git
-cd stock-worth-calculator
+git clone https://github.com/cybergeekgyan/equialue.git
+cd equialue
 ```
 ### 2️⃣ Install Dependencies
 
